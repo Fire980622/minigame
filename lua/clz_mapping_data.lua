@@ -1,0 +1,9 @@
+ClzMapping = ClzMapping or {}
+ClzMapping["DataChat"] = "data/data_chat"
+ClzMapping["DataHonor"] = "data/data_honor"
+ClzMapping["DataLevBreak"] = "data/data_lev_break"
+ClzMapping["DataLoadingDesc"] = "data/data_loading_desc"
+ClzMapping["DataLook"] = "data/data_look"
+ClzMapping["DataLottery"] = "data/data_lottery"
+ClzMapping["DataMap"] = "data/data_map"
+ClzMapping["DataProtocol"] = "data/data_protocol"

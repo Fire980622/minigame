@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1423375898
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 500a47d0fd227626e3fb8c46e8b02946
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Role/Skin/5100206.TGA
+Dependencies: []

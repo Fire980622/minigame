@@ -1,0 +1,12 @@
+
+{
+    "check_apk_path" : "file:///D:/mini/release",
+
+    "debug" : "true",
+    "apk_version" : "16111115",
+    "res_version" : "201608080808",
+    "check_apk" : "false",
+    "download_apk_path" : "file:///D:/mini/release/apk", // apk下载地址
+    "cdn_path" : "file:///D:/mini/release/",
+    "theone_cdn_path" : "file:///D:/mini/release"
+}

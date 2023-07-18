@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2239247613
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 097d0574bc6b80127c11156739e92a73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Role/Animation/dead1.anim
+Dependencies: []

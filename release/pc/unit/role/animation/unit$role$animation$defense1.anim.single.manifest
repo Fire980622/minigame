@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4108670629
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d0fdccc5e8380e6748909f9c387c277
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Role/Animation/defense1.anim
+Dependencies: []

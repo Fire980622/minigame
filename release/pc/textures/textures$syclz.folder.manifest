@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2227288135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d024bdf5f0032e3521f4e0f9dcb7a78f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/lua/clz_mapping_data.txt
+- Assets/lua/clz_mapping_lua.txt
+Dependencies: []

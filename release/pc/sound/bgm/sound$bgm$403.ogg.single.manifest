@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3831039196
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ba1e97c95b5b2dc61ba2939b18d12f5f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Sound/Bgm/403.ogg
+Dependencies: []

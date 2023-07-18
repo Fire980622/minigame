@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 259740685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3fca71a25a39a7b9efa335e6817f40cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2013514fe9cc708c84fd1a7cbf968bb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Textures/UI_pc/Login_/UI_Login_.png
+- Assets/Things/Textures/UI_pc/Login_/UI_Login_.mat
+Dependencies: []

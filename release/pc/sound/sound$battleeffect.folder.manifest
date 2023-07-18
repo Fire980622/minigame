@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 524706232
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 81002b49619880c9440eebff490775c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Sound/BattleEffect/802.ogg
+- Assets/Things/Sound/BattleEffect/801.ogg
+- Assets/Things/Sound/BattleEffect/800.ogg
+Dependencies: []

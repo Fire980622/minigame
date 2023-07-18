@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2712187928
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d84e5d614b89c96b8187beceae740691
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4984034debbe18467795c03ea52ba03c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Npc/Animation/71006/Player/player_death_effect.anim
+Dependencies: []

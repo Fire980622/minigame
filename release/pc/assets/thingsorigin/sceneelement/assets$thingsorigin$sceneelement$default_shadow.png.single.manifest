@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1970720359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 91c78da0fdf172d7386dd4a886b6b83e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThingsOrigin/SceneElement/default_shadow.png
+Dependencies: []

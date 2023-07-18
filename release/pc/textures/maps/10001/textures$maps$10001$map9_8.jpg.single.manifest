@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 702595151
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a0d564e8d31101495263af3597c79643
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Textures/Maps/10001/map9_8.jpg
+Dependencies: []

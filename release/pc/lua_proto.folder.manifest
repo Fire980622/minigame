@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3569547878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c848ee493ba13d437cb14f486f5cbed9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/proto/ectype.bytes
+- Assets/proto/login3b.bytes
+- Assets/proto/login3a.bytes
+Dependencies: []

@@ -1,0 +1,7 @@
+syntax = "proto3"; 
+enum ECtype 
+{
+	INVALIDITY_Ctype = 0;
+	eUnameLoginReq = 1;
+	eUnameLoginRes = 2;
+}

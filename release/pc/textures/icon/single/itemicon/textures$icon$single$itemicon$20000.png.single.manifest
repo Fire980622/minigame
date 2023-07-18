@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1371135869
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50194c2f3f92d0c65a0e15c99a5aceba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Textures/Icon/Single/ItemIcon/20000.png
+Dependencies: []

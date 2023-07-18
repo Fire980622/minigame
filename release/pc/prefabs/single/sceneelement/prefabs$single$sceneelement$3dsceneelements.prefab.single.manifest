@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1758630338
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d2534dae8be5be9641b7cb95aba9820
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c0e7c8beb7e2c6280e85f6bc79b2f4
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Prefabs/Single/SceneElement/3DSceneElements.prefab
+Dependencies:
+- D:/mini/resources/../release/pc/assets/thingsorigin/sceneelement/assets$thingsorigin$sceneelement$default_shadow.png.single
+- D:/mini/resources/../release/pc/font/font$wqy.ttf.single
+- D:/mini/resources/../release/pc/shaders.folder

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4089037069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d47d2fc3c415f9d77e044b3be8b557b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Role/Animation/10080.anim
+Dependencies: []

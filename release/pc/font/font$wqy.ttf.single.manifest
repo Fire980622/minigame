@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3758306492
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1297f2c4b84132aa31f5df878cc8eb5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4de8b25cbd6d858cd4c6ce40521297b9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Font/wqy.ttf
+Dependencies: []

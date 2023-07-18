@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 828759069
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a66a7756a12339164c27151a649ffb90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Sound/Effect/659.ogg
+- Assets/Things/Sound/Effect/662.ogg
+- Assets/Things/Sound/Effect/663.ogg
+- Assets/Things/Sound/Effect/214.ogg
+- Assets/Things/Sound/Effect/660.ogg
+- Assets/Things/Sound/Effect/661.ogg
+Dependencies: []

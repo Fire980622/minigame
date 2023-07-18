@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 441822079
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93d3eb644bb7363ddc0a0617320e7c3f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4984034debbe18467795c03ea52ba03c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Npc/Animation/71006/Player/player_jump_up.anim
+Dependencies: []

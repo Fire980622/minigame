@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3543580621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 836e609aa4be560beb616d3e0eee79bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Textures/Maps/10001/map0_8.jpg
+Dependencies: []

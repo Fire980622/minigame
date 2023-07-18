@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2562789523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d609bf8d795fdea6cf58a5f75828580
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/lua/data/data_loading_desc.txt
+- Assets/lua/data/data_look.txt
+- Assets/lua/data/data_lev_break.txt
+- Assets/lua/data/data_lottery.txt
+Dependencies: []

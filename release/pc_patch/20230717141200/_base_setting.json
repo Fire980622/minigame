@@ -1,0 +1,10 @@
+{
+"check_apk_path": "file:///D:/mini/release",
+"debug": "true",
+"apk_version": "16111115",
+"res_version": "20230717141200",
+"check_apk": "false",
+"download_apk_path": "file:///D:/miniGame/release/apk",
+"cdn_path": "file:///D:/mini/release/",
+"theone_cdn_path": "file:///D:/mini/release"
+}

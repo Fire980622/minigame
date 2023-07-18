@@ -1,0 +1,45 @@
+# Assets/Resources/base_setting.lua.txt
+Assets/Slua/LuaObject
+Assets/Slua/LuaObject.meta
+Assets/StreamingAssets
+Assets/StreamingAssets.meta
+
+# ---------------[ Unity generated ]------------------ #
+/Temp
+/obj
+/UnityGenerated
+/Library
+/Build
+/Logs
+/UserSettings
+client.dll
+# ProjectSettings/
+*.sublime-project
+*.sublime-workspace
+ 
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+ 
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.vsconfig
+ 
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+log.text
+
+# -------------[ Slua generated ]------------------------ #

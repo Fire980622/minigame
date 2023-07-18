@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 218143033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d649b4d6c21bd57c8fc7e42ea3c8ff4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Textures/Maps/10001/map0_5.jpg
+Dependencies: []

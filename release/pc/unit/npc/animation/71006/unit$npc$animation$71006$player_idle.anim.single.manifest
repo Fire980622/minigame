@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1541452827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2e05c4eb65d55e46ee51d7b63bf87c6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Npc/Animation/71006/player_idle.anim
+Dependencies: []

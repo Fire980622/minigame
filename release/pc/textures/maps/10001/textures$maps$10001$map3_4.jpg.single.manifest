@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1386979546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 76ce34c42ade05aaed0c5bd4e92679c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Textures/Maps/10001/map3_4.jpg
+Dependencies: []

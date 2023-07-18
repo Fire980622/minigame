@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3080436313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64e6f882f29b9e5d6dba0c352cee3e6e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4984034debbe18467795c03ea52ba03c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Npc/Animation/71006/Player/player_crouch.anim
+Dependencies: []

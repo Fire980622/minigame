@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4267464825
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f0808ad9c5b8fba0990ba972185f2da
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Unit/Role/Animation/hit1.anim
+Dependencies: []

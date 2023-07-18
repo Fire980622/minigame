@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3398906931
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5178e5243bb050c8b4a5d04b69ba351c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68c985bf88fecc38b460cdb825182138
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Things/Shaders/UnlitTransparentCutout.shader
+- Assets/Things/Shaders/Spine-Skeleton.shader
+- Assets/Things/Shaders/Sprite/CameraDepthNormalsTexture.shader
+- Assets/Things/Shaders/OutlineEx.shader
+- Assets/Things/Shaders/UnlitTexture.shader
+- Assets/Things/Shaders/SpritesPixelLit.shader
+- Assets/Things/Shaders/Spine-SkeletonGraphic.shader
+- Assets/Things/Shaders/SpritesUnlit.shader
+- Assets/Things/Shaders/SceneUnitFV.shader
+- Assets/Things/Shaders/Standard.shader
+- Assets/Things/Shaders/UnlitTransparent.shader
+- Assets/Things/Shaders/Sprite/CameraDepthTexture.shader
+- Assets/Things/Shaders/LegacyShadersTransparentCutoutDiffuse.shader
+- Assets/Things/Shaders/SpritesDefault.shader
+- Assets/Things/Shaders/LegacyShadersTransparentDiffuse.shader
+- Assets/Things/Shaders/NormalDiffuse.shader
+- Assets/Things/Shaders/Sprite/CameraNormalsTexture.shader
+- Assets/Things/Shaders/MobileDiffuse.shader
+- Assets/Things/Shaders/Spine-Skeleton-PMA-Screen.shader
+- Assets/Things/Shaders/Skeleton.shader
+- Assets/Things/Shaders/SkeletonTint.shader
+- Assets/Things/Shaders/Bones.shader
+- Assets/Things/Shaders/SkeletonGhost.shader
+- Assets/Things/Shaders/TextureMap.shader
+- Assets/Things/Shaders/SkeletonLit.shader
+- Assets/Things/Shaders/SkeletonGraphic.shader
+- Assets/Things/Shaders/Spine-Skeleton-PMA-Multiply.shader
+- Assets/Things/Shaders/ParticleAddMask.shader
+- Assets/Things/Shaders/ParticlesAdditive.shader
+- Assets/Things/Shaders/UI-Unlit-Text-Modified.shader
+Dependencies: []
